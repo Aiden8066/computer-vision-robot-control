@@ -176,35 +176,11 @@ python warehouse_navigation_gui.py
    - 조명 환경 개선
    - GPU 메모리 확인
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
 
-## 👥 개발자
 
-- **김우현** - 초기 개발 및 시스템 설계
-- 학번: 12182431
-- 과목: 물류AI프로그래밍 기말고사
 
-## 📞 연락처
-
-프로젝트 관련 문의사항이 있으시면 GitHub Issues를 통해 연락해주세요.
-
-## 🙏 감사의 말
-
-- OpenCV 커뮤니티
-- Ultralytics YOLOv5 팀
-- PyQt6 개발팀
-- ArUco 라이브러리 개발자들
-
----
 
 ⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요!
